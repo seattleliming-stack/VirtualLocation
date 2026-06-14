@@ -11,3 +11,5 @@ An Android app-cloning and privacy-protection solution — no root required. Sup
 Includes a mature license verification platform with ready-made APIs (activation, heartbeat, remote config, announcements, etc.). Deploy and sell out of the box; custom builds available on request.
 
 Built-in virtual location, device spoofing, and photo/camera replacement.
+<img width="1080" height="2118" alt="Screenshot_2026-06-14-13-10-07-97_24ed3b1c5557c13" src="https://github.com/user-attachments/assets/c0972b53-bfa5-46f1-8a5e-95f2ea220577" />
+<img width="1080" height="2277" alt="Screenshot_2026-06-14-13-09-28-48_24ed3b1c5557c13" src="https://github.com/user-attachments/assets/800d1ff8-17dd-4f7a-a772-28089ab7f488" />
